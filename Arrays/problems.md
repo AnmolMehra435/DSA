@@ -45,7 +45,6 @@ Grow and shrink window.
 
 Longest Subarray with Given Sum K (positives only)	GFG
 
-Only one pure sliding window question exists in the Array section.
 
 Pattern 5: Prefix Sum + HashMap
 Concept
