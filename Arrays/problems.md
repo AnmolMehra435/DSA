@@ -10,6 +10,7 @@ Linear Search	GFG: Search an Element
 Find Missing Number	LeetCode 268
 Maximum Consecutive Ones	LeetCode 485
 Leaders in an Array	GFG: Leaders in Array
+Buy and Sell stock: LeetCode 121
 
 Pattern 2: In-place Array Modification
 Concept
@@ -77,14 +78,7 @@ Kadane's Algorithm	LeetCode 53
 Print Subarray with Maximum Sum	GFG
 Maximum Product Subarray	LeetCode 152
 
-Pattern 8: Stock / Greedy Observation
-Concept
-
-Track best answer so far.
-
-Stock Buy and Sell	LeetCode 121
-
-Pattern 9: Matrix Traversal
+Pattern 8: Matrix Traversal
 Concept
 
 Direction-based movement.
@@ -92,23 +86,15 @@ Direction-based movement.
 Spiral Matrix	LeetCode 54
 Pascal Triangle I	LeetCode 118
 
-Pattern 10: Interval Pattern
+Pattern 9: Interval Pattern
 Concept
 
 Sort intervals then merge.
 
 Merge Overlapping Subintervals	LeetCode 56
+Insert Interval: LeetCode
 
-Pattern 11: Math / Equation Derivation
-Concept
-
-Derive formulas.
-
-Find Repeating and Missing Number	LeetCode 645 (similar)
-Pascal Triangle I	LeetCode 118
-
-
-Pattern 12: Divide and Conquer (Merge Sort Based)
+Pattern 10: Divide and Conquer (Merge Sort Based)
 Concept
 
 Count during merge process.
