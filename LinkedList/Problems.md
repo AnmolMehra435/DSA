@@ -24,6 +24,7 @@ LINKED LIST PATTERN-WISE (STRIVER)
 - Find the starting Point in LL        -> LeetCode 142
 - Length of loop in LL                 -> GFG
 - Delete the middle node in LL         -> LeetCode 2095
+- Check if LL is palindrome or not      -> LeetCode 234
 
 4. LINKED LIST REVERSAL PATTERN
 --------------------------------
@@ -36,36 +37,32 @@ LINKED LIST PATTERN-WISE (STRIVER)
 - Remove nth node from the back of LL   -> LeetCode 19
 - Find the intersection point of Y LL   -> LeetCode 160
 
-6. PALINDROME / MODIFY & RESTORE PATTERN
------------------------------------------
-- Check if LL is palindrome or not      -> LeetCode 234
-
-7. ODD-EVEN / NODE REARRANGEMENT PATTERN
+6. ODD-EVEN / NODE REARRANGEMENT PATTERN
 -----------------------------------------
 - Segregate odd and even nodes in LL    -> LeetCode 328
 - Rotate a LL                           -> LeetCode 61
 
-8. MERGE SORT / LINKED LIST SORTING
+7. MERGE SORT / LINKED LIST SORTING
 ------------------------------------
 - Sort LL                               -> LeetCode 148
 - Sort a LL of 0's, 1's and 2's         -> GFG
 - Remove duplicates from sorted DLL     -> GFG
 
-9. ARITHMETIC ON LINKED LIST
+8. ARITHMETIC ON LINKED LIST
 -----------------------------
 - Add two numbers in LL                 -> LeetCode 2
 - Add one to a number represented by LL -> GFG
 
-10. DOUBLY LL TWO POINTER PATTERN
+9. DOUBLY LL TWO POINTER PATTERN
 ----------------------------------
 - Delete all occurrences of a key in DLL -> GFG
 - Find Pairs with given sum in DLL       -> GFG
 
-11. MULTI-LEVEL LINKED LIST PATTERN
+10. MULTI-LEVEL LINKED LIST PATTERN
 ------------------------------------
 - Flattening a LL                       -> GFG / LeetCode 430 (similar)
 
-12. HASHING / DEEP COPY PATTERN
+11. HASHING / DEEP COPY PATTERN
 --------------------------------
 - Clone a LL with random and next pointer -> LeetCode 138
 
