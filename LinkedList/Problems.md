@@ -51,7 +51,6 @@ LINKED LIST PATTERN-WISE (STRIVER)
 8. ARITHMETIC ON LINKED LIST
 -----------------------------
 - Add two numbers in LL                 -> LeetCode 2
-- Add one to a number represented by LL -> GFG
 
 9. DOUBLY LL TWO POINTER PATTERN
 ----------------------------------
