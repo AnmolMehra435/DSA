@@ -77,7 +77,7 @@
 
 --------------------------------------------------
 
-# Pattern 5 - Partitioning & Exhaustive Search
+# Pattern 5 - Partitioning & Exhaustive Sear
 
 - Palindrome Partitioning
   → LeetCode 131. Palindrome Partitioning
