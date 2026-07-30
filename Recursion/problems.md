@@ -80,7 +80,7 @@
 # Pattern 5 - Partitioning & Exhaustive Search
 
 - Palindrome Partitioning
-  → LeetCode 131. Palindrome Partitioning
+  → LeetCode 131. Palindrone Partitioning
 
 - Word Break
   → LeetCode 139. Word Break
