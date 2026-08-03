@@ -83,7 +83,7 @@
   → LeetCode 131. Palindrone Partitioning
 
 - Word Break
-  → LeetCode 139. Word Break
+  → LeetCode 139. Word break
 
 - Expression Add Operators
   → LeetCode 282. Expression Add Operators
