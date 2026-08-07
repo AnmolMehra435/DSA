@@ -25,4 +25,4 @@ Bit Manipulation
 - Print Factors of a Number (GFG)
 - Divisors of a Number (GFG)
 - Count Primes in Range L to R (GFG)
-- Prime Factorisation of a Number (GF
+- Prime Factorisation of a Number (GFG)
